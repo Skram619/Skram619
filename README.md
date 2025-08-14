@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Skram619
-- 🌱 I’m currently learning .HTML & CSS
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .HTML, CSS & Unity
 
 
 <!---
