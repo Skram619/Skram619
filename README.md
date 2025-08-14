@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skram619
+- 👋 Hi, I’m Skram619
 - 🌱 I’m currently learning .HTML, CSS & Unity
 
 
